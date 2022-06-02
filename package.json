@@ -7,16 +7,11 @@
     "build-storybook": "build-storybook"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.2",
-    "@storybook/addon-actions": "^6.5.6",
-    "@storybook/addon-essentials": "^6.5.6",
-    "@storybook/addon-interactions": "^6.5.6",
-    "@storybook/addon-links": "^6.5.6",
-    "@storybook/builder-webpack4": "^6.5.6",
-    "@storybook/html": "^6.5.6",
-    "@storybook/manager-webpack4": "^6.5.6",
-    "@storybook/testing-library": "^0.0.11",
-    "babel-loader": "^8.2.5",
-    "json-server": "^0.17.0"
+    "@storybook/addon-actions": "^6.4.22",
+    "@storybook/addon-essentials": "^6.4.22",
+    "@storybook/addon-links": "^6.4.22",
+    "@storybook/html": "^6.4.22",
+    "json-server": "^0.17.0",
+    "storybook": "^6.5.5"
   }
 }
